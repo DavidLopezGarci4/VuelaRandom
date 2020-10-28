@@ -1,2 +1,2 @@
 # VuelaRandom
-Econonomic flight search optimization. Flight price pattern analysis.
+Economic flight search optimization. Flight price pattern analysis.
